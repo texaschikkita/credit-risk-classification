@@ -49,5 +49,5 @@ The scores for the high-risk (group 1) loans were much better with the resampled
   
 ## Summary
 
-For this example, the Logistic Regression Model (2)  trained with resampled data fared better and should be considered a superior option than the Logistic Regression Model (1) that used the original data, especially when it comes to high-risk loans.  Since the purpose of this is to determine creditworthiness and try to accurately assess the lender's calculated risk(s) associated with high-risk loans, this is precisely the improvement that makes using the oversampled dataset so much better to use here. 
+For this example, the Logistic Regression Model (2)  trained with resampled data fared better and should be considered a superior option than the Logistic Regression Model (1) that used the original data, especially when it comes to high-risk loans.  Since the purpose of this is to determine creditworthiness and try to accurately assess the lender's calculated risk(s) associated with high-risk loans, this is precisely the improvement that makes using the oversampled dataset so much better here. 
 

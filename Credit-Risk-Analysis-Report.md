@@ -38,7 +38,7 @@ The high-risk loans yielded the following scores:
 
 
 * Machine Learning Model 2: Logistic Regression on resampled data
-The accuracy score reamins unchanged at 99%.
+The accuracy score remains unchanged at 99%.
 The scores for the healthy loans (group 0) remain quite good, each (precision, recall and F1) coming in at 99% - though, these scores did each drop from 100% from the scores of the original data. 
 The scores for the high-risk (group 1) loans were much better with the resampled data in this model.  The precision, recall and F1 scores all jumped to 99%, which is: 
   12% better than the results for the original data in precision,
